@@ -92,7 +92,10 @@ ul {
     margin-bottom: 0;
     padding-left: 0;
 }
-
+ 
+.img { 
+    display: block
+}
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -350,7 +353,7 @@ ul {
 }
 
 .title-our-portfolio {
-    margin-bottom: 72px;
+    margin-bottom: 8px;
 }
 
 .our-portfolio-points {
