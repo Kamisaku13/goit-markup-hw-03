@@ -16,7 +16,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     display: inline-block;
     margin-bottom: 16px;
@@ -186,7 +186,7 @@ ul {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     display: flex;
     gap: 40px;
 }
