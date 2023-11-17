@@ -339,7 +339,7 @@ ul {
 
 .list-title-container {
     text-align: center;
-    padding-bottom: 8px;
+    margin-bottom: 8px
 }
 
 .list-text-container {
@@ -388,6 +388,7 @@ ul {
 
 .logo-container {
     display: inline-block;
+    margin-bottom: 16px;
 }
 
 .block {
