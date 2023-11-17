@@ -112,6 +112,7 @@ ul {
 
 .container {
     width: 1158px;
+    max-width: 1440px;
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
@@ -120,8 +121,8 @@ ul {
 .page-header-container {
     list-style-type: none;
     margin: 0 auto;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
     display: flex;
     gap: 40px;
     justify-content: flex-end;
@@ -315,6 +316,7 @@ ul {
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .title-our-team {
