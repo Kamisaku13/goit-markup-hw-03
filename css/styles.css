@@ -95,7 +95,7 @@ ul {
 }
  
 .img { 
-    display: block
+    display: block;
 }
 .visually-hidden {
     position: absolute;
@@ -120,8 +120,8 @@ ul {
 .page-header-container {
     list-style-type: none;
     margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 24px;
+    padding-right: 24px;
     display: flex;
     gap: 40px;
     justify-content: flex-end;
