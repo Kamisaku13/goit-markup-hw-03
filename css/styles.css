@@ -29,6 +29,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--IRIS, #4D5AE5);
+    margin-right: 76px; 
 }
 
 .button-nav {
